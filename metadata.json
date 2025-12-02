@@ -1,0 +1,7 @@
+{
+  "name": "The Fab Twelve Hub",
+  "description": "The ultimate fantasy basketball league dashboard powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
